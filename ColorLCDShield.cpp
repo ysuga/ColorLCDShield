@@ -14,9 +14,9 @@
 
 #include "ColorLCDShield.h"
 
-extern "C" {
-	#include "wiring.h"
-}
+//extern "C" {
+//	#include "wiring.h"
+//}
 
 LCDShield::LCDShield()
 {

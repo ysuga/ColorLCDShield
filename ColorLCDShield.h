@@ -17,7 +17,7 @@
 #define PHILLIPS	0
 #define EPSON		1
 
-#include <WProgram.h>
+#include <Arduino.h>
 
 #include <inttypes.h>
 
